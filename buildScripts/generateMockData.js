@@ -3,7 +3,7 @@ import {schema} from './mockDataSchema';
 import fs from 'fs';
 import chalk from 'chalk';
 
-/* eslint-disbale no-console */
+/* eslint-disable no-console */
 
 const json = JSON.stringify(jsf(schema));
 
